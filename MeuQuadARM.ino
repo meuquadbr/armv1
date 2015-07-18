@@ -21,13 +21,13 @@
 #define KPX 4
 #define KIX 0
 #define KDX 1
-#define CENTROX -0.75
+#define CENTROX 0
 
 //PID Y
 #define KPY 4
 #define KIY 0
 #define KDY 1
-#define CENTROY -0.48
+#define CENTROY 0
 
 //PID Z
 #define KPZ 8
